@@ -28,17 +28,17 @@ Total : ~15.20 USD
 
 ## PCB
 This is the schematic for the PCB, made in KiCad
-![Schematic](/home/vlad/Documents/Git_hub/Macropad/Photos/Screenshot From 2026-02-19 22-21-55.png)
+![Schematic](Photos/Screenshot From 2026-02-19 22-21-55.png)
 
 And this is the footprint
-![Footprint](/home/vlad/Documents/Git_hub/Macropad/Photos/Screenshot From 2026-02-19 22-22-10.png)
+![Footprint](Photos/Screenshot From 2026-02-19 22-22-10.png)
 
-![PCB](/home/vlad/Documents/Git_hub/Macropad/Photos/Macropad.png)
+![PCB](Photos/Macropad.png)
 
 ## Case
 
 The case will be held tight by 4 M3x16 mm screws and it can be fuly 3D printed
-![Case](/home/vlad/Documents/Git_hub/Macropad/Photos/Screenshot From 2026-02-19 22-44-21.png)
+![Case](Photos/Screenshot From 2026-02-19 22-44-21.png)
 
 
 
