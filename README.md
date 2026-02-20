@@ -1,4 +1,3 @@
-# Macropad
 
 This Macropad has 6 keys for media control and microphone with a rotary encoder for scrolling with qmk firmware. It also has an OLED display.
 
@@ -33,12 +32,12 @@ This is the schematic for the PCB, made in KiCad
 And this is the footprint
 ![Footprint](Photos/footprint.png)
 
-![PCB](Photos/Macropad.png)
+![PCB](Photos/PCB.png)
 
 ## Case
 
 The case will be held tight by 4 M3x16 mm screws and it can be fuly 3D printed
-![Case](Photos/case.png)
+![Case](Photos/case+top.png)
 
 
 
